@@ -1,0 +1,5 @@
+/node_modules
+gif/*
+
+# don't ignore keep files
+!.keep
